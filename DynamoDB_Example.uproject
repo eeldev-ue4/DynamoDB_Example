@@ -7,7 +7,7 @@
 		{
 			"Name": "AwsDynamoDB",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/dd9b364c404b4ca49c851bbcf63e75ec"
 		}
 	]
 }
